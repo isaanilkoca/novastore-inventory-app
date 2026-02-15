@@ -1,17 +1,15 @@
-# novastore_mobil_proje
+# NovaStore Envanter Yönetim Sistemi 📱
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş modern bir envanter takip uygulamasıdır. 
+Üniversite projesi kapsamında geliştirilmiş olup, profesyonel mobil uygulama mimarisi prensiplerine dayanmaktadır.
 
-## Getting Started
+## 🚀 Özellikler
+* **Kullanıcı Giriş & Kayıt:** Güvenli geçiş yapıları (Navigator).
+* **Ürün Yönetimi:** Dinamik ürün ekleme ve listeleme (State Management).
+* **Detaylı Görünüm:** Her ürün için teknik detay kartları ve görsel desteği.
+* **Mimari:** Temiz kod prensipleri için Model-View ayrımı (Clean Code).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Kullanılan Teknolojiler
+* Flutter & Dart
+* Material 3 Tasarım Dili
+* Model-View Tasarım Deseni
